@@ -4,9 +4,9 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
 <details>
-<p><strong> <summary>  Busy analyzing data & Vibing to :    </summary> </strong></p>
+<p><strong> <summary> 🎧 Busy analyzing data, training models & Vibing to : </summary> </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
 
 </details>
 
@@ -34,6 +34,8 @@
 
 class ProfessionalSkills:
     def __init__(self):
+        self.name = "Engy Wahba"
+        self.role = "Data Analyst | Business Intelligence Analyst"
         self.data_stack = {
             "ProgrammingLanguages" : { "Python", "SQL" },
             "Libraries_Frameworks" : { "Pandas", "NumPy", "Scikit-Learn", "XGBoost", "Optuna" },
