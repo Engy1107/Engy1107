@@ -68,8 +68,6 @@ Turning Data into Insights 📊 and Automating Workflows ⚡
 
 ✅ Dashboard Development with Power BI
 
-✅ Data Visualization
-
 ✅ Machine Learning Projects
 
 ✅ Excel Automation
