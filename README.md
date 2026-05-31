@@ -1,6 +1,6 @@
 # Hi 👋, I'm Engy  Wahpa
 
-<h3 align="center">Data Analyst | Data Science | RPA & AI Automation </h3>
+<h3 align="center">BI Analyst | Data Science | RPA & AI Automation </h3>
 
 <p align="center">
 Turning Data into Insights 📊 and Automating Workflows ⚡
