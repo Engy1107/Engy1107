@@ -1,204 +1,127 @@
+# Hi 👋, I'm Engy Ahmed
+
+<h3 align="center">Data Analyst | Data Science Student | RPA & AI Automation Enthusiast</h3>
+
+<p align="center">
+Turning Data into Insights 📊 and Automating Workflows ⚡
+</p>
+
 <div align="center">
 
-# Engy Ahmed
-
-### Data Analyst • Business Intelligence • AI & Automation Solutions
-
-Transforming Data into Decisions and Automating Business Processes
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2M3aDF3ZnI3b2M0eW55eWw4NXN5YjJjY2R3ZXg4eTR6YjBkYWhvYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
 
 </div>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-I specialize in analyzing business data, building actionable reports, and automating repetitive processes using modern data and AI technologies.
-
-My background combines:
-
-📊 Data Analytics
-
-📈 Business & Financial Analysis
-
-🤖 Process Automation (RPA)
-
-🧠 AI-Powered Workflows
-
-💼 Business Operations & ERP Systems
-
-I enjoy solving business problems through data-driven insights and intelligent automation solutions.
+* 🎓 Data Science Diploma Student
+* 📊 Passionate about Data Analytics & Business Intelligence
+* 🤖 Exploring RPA and AI Automation
+* 🐍 Python & SQL Enthusiast
+* 📈 Interested in Data-Driven Decision Making
+* 🌱 Currently learning Machine Learning and Process Automation
+* 💡 I enjoy solving business problems using data and automation
 
 ---
 
-## Technical Expertise
+## 🚀 Skills
 
-### Data Analytics & Business Intelligence
+### 📊 Data Analytics
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat\&logo=python)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat\&logo=postgresql)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat\&logo=microsoft-excel)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat\&logo=powerbi)
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+### 🧠 Data Science
 
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat\&logo=scikitlearn)
+![Statistics](https://img.shields.io/badge/Statistics-00599C?style=flat)
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+### 🤖 Automation & AI
 
-![Statistics](https://img.shields.io/badge/Statistics-00599C?style=for-the-badge)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat)
 
----
+### 🛠️ Tools
 
-### Data Science & Machine Learning
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-
-![ScikitLearn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge\&logo=scikitlearn)
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
----
-
-### Automation & RPA
-
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
-
-![Power Automate Desktop](https://img.shields.io/badge/PAD-Automation-blue?style=for-the-badge)
-
-![RPA](https://img.shields.io/badge/RPA-Process_Automation-orange?style=for-the-badge)
-
-![ERP](https://img.shields.io/badge/ERP-Operations-green?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat\&logo=jupyter)
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat\&logo=visualstudiocode)
 
 ---
 
-### AI & Intelligent Automation
+## 💼 Services I Can Provide
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+✅ Data Cleaning & Preprocessing
 
-![Generative AI](https://img.shields.io/badge/Generative_AI-black?style=for-the-badge)
+✅ Exploratory Data Analysis (EDA)
 
-![AI Agents](https://img.shields.io/badge/AI_Agents-purple?style=for-the-badge)
+✅ SQL Database Analysis
 
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-red?style=for-the-badge)
+✅ Business Reporting & KPI Tracking
 
-![AI Automation](https://img.shields.io/badge/AI_Automation-success?style=for-the-badge)
+✅ Dashboard Development with Power BI
 
----
+✅ Data Visualization
 
-## What I Build
+✅ Machine Learning Projects
 
-### Data Analytics Solutions
+✅ Excel Automation
 
-✔ Data Cleaning & Preparation
+✅ Process Automation using Power Automate
 
-✔ Exploratory Data Analysis (EDA)
-
-✔ KPI Dashboards
-
-✔ Business Reporting
-
-✔ SQL Data Analysis
-
-✔ Financial & Operational Analysis
+✅ AI-Powered Workflow Automation
 
 ---
 
-### Automation Solutions
+## 📂 Featured Projects
 
-✔ Excel Automation
+### 📊 Sales Dashboard
 
-✔ Power Automate Workflows
+* Interactive Power BI Dashboard
+* KPI Monitoring
+* Sales Trend Analysis
 
-✔ ERP Process Automation
+### 📈 Stock Market Analysis
 
-✔ Reporting Automation
+* Data Collection & Cleaning
+* Exploratory Data Analysis
+* Time Series Analysis
 
-✔ Data Entry Automation
+### 🤖 Business Process Automation
 
-✔ File Processing Automation
+* Automated repetitive business workflows
+* Reduced manual effort and processing time
 
----
+### 🧠 Machine Learning Project
 
-### AI Solutions
-
-✔ AI-Powered Business Workflows
-
-✔ Intelligent Document Processing
-
-✔ AI Assisted Reporting
-
-✔ AI Agents for Business Tasks
-
-✔ Retrieval-Augmented Knowledge Assistants
-
-✔ Generative AI Integration
+* Data preprocessing
+* Model training and evaluation
+* Business-focused insights
 
 ---
 
-## Professional Background
+## 🌱 Currently Learning
 
-### Purchasing Officer & Data Reporting Specialist
-
-Green Hyper Market
-
-* ERP Operations Management
-* Supplier Coordination
-* Pricing & Product Management
-* Business Reporting
-* Profitability Analysis
-
-### Financial Data Analyst
-
-Apex Construction & Decoration
-
-* Financial Reporting
-* Cost Control Analysis
-* Profitability Tracking
-* Performance Monitoring
-
-### Sales Consultant
-
-Real Estate Industry
-
-* Client Relationship Management
-* Business Communication
-* Market Understanding
-* Sales Analytics
+* Machine Learning
+* Advanced SQL
+* Data Engineering Fundamentals
+* Power Automate Desktop
+* RPA Development
+* Generative AI Applications
+* AI + Automation Integration
 
 ---
 
-## Certifications
-
-🏆 CFA Investment Foundations
-
-🏆 Accounting Fundamentals – CFI
-
-🏆 Statistics Foundations
-
-🏆 Database Fundamentals
-
----
-
-## Current Focus
-
-🔹 Business Intelligence
-
-🔹 Machine Learning
-
-🔹 AI Automation
-
-🔹 Process Automation
-
-🔹 Data Engineering Fundamentals
-
-🔹 AI + RPA Integration
-
----
-
-## GitHub Statistics
+## 📈 GitHub Stats
 
 <p align="center">
 
@@ -212,16 +135,14 @@ Real Estate Industry
 
 ---
 
-## Professional Philosophy
+## 📫 Connect With Me
 
-"Data becomes valuable when it drives decisions. Automation becomes valuable when it saves time. Combining both creates real business impact."
+* LinkedIn: https://linkedin.com/in/YOUR_LINK
+* GitHub: https://github.com/YOUR_USERNAME
+* Email: [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
-## Connect With Me
+## ⚡ Fun Fact
 
-LinkedIn: YOUR_LINKEDIN_URL
-
-GitHub: YOUR_GITHUB_URL
-
-Email: YOUR_EMAIL
+I love combining Data Science, Analytics, and Automation to transform hours of manual work into a few clicks.
