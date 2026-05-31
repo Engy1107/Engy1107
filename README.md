@@ -1,127 +1,250 @@
-# Hi 👋, I'm Engy Wahba
-
-<h3 align="center">Data Analyst | BI Specialist | AI Automation & RPA Enthusiast</h3>
-
-<p align="center">
-  <strong>Bridging the gap between Complex Data Execution & Strategic Business Value 📊⚡</strong>
-</p>
-
 <div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Data Scientists" width="55%"/> 
-  <br><br>
-  
-  ![Totals Hits](https://komarev.com/ghpvc/?username=Engy1107&style=flat-square&color=blue&label=PROFILE+VIEWS)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Engy--Wahba-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/engy-wahpa-b21101156/)
-  [![GitHub](https://img.shields.io/badge/GitHub-Engy1107-181717?style=flat-square&logo=github)](https://github.com/Engy1107)
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
+
+# Hi 👋 I'm Engy Ahmed
+
+### Data Analyst • AI Automation Engineer • Business Intelligence Enthusiast
+
+Transforming Data into Decisions 📊
+Automating Processes with AI & RPA 🤖
+Bridging Business and Technology 🚀
+
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💼 About Me
 
-* 🎓 **Postgraduate Student:** Currently pursuing a Data Science Diploma at the Faculty of Graduate Studies for Statistical Research (FGSSR), Cairo University[cite: 1, 2].
-* 📊 **Data Driven:** Passionate about transforming raw operational and financial data into interactive, actionable BI dashboards[cite: 1, 2].
-* 🤖 **Automation Mindset:** Dedicated to streamlining business operations and client management using RPA and modern workflow automation tools.
-* 📈 **Business Acumen:** Background in Finance & Investment Portfolio Management, blending financial analytical skills with machine learning execution[cite: 1, 2].
+I am a Data Analyst with a strong background in Finance, Statistics, Operations Research, and Business Performance Analysis.
 
----
+My focus is not only analyzing data but also transforming business processes through Automation, Artificial Intelligence, and Data-Driven Decision Making.
 
-## 🚀 Technical Skills & Stack
+I enjoy building solutions that help organizations:
 
-<table>
-  <tr>
-    <td width="50%">
-      <strong>📊 Data Analytics & BI</strong><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI"/>
-      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-    </td>
-    <td width="50%">
-      <strong>🧠 Data Science & AI</strong><br>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-      <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-      <img src="https://img.shields.io/badge/Statistics-00599C?style=flat-square" alt="Statistics"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>🤖 Automation & RPA</strong><br>
-      <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoft-power-automate&logoColor=white" alt="Power Automate"/>
-      <img src="https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white" alt="UiPath"/>
-      <img src="https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
-    </td>
-    <td>
-      <strong>🛠️ Environment & Tools</strong><br>
-      <img src="https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
-      <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
-      <img src="https://img.shields.io/badge/Fujitsu_ERP-5E5C5C?style=flat-square" alt="ERP"/>
-    </td>
-  </tr>
-</table>
+✔ Reduce manual work
+
+✔ Improve operational efficiency
+
+✔ Generate actionable business insights
+
+✔ Automate repetitive processes
+
+✔ Make smarter decisions using data
 
 ---
 
-## 💼 Solutions I Deliver (Business Impact)
+## 🚀 Core Expertise
 
-| Capabilities & Services | Core Tools Used |
-| :--- | :--- |
-| **Data Engineering & Architecture** | Converting raw datasets into structured SQL databases with robust table relationships[cite: 1]. |
-| **Predictive Modeling & AI Pipelines** | Building machine learning models for pricing, forecasting, and demand planning[cite: 1, 2]. |
-| **Business Intelligence & Dashboards** | Designing automated Power BI & Advanced Excel dashboards to track operational KPIs[cite: 1, 2]. |
-| **Workflow & CRM Automation** | Automated repetitive processes, client reporting, and system integration (ERP/CRM)[cite: 1]. |
+### 📊 Data Analytics & Business Intelligence
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel)
+
+### 📈 Statistics & Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikitlearn)
+
+- Statistical Analysis
+- Business Statistics
+- Operations Research
+- Predictive Analytics
+- Machine Learning Fundamentals
+- Data Visualization
+
+---
+
+### 🤖 AI & Intelligent Automation
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=flat)
+
+#### AI Capabilities
+
+- AI Workflow Design
+- Prompt Engineering
+- AI Agents Fundamentals
+- Retrieval-Augmented Generation (RAG)
+- LLM Applications
+- AI-Assisted Data Analysis
+- AI-Powered Reporting
+- Business Process Automation using AI
+
+---
+
+### ⚡ Automation & RPA
+
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat)
+![Power Automate Desktop](https://img.shields.io/badge/PAD-0057FF?style=flat)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat)
+![ERP](https://img.shields.io/badge/ERP_Systems-009688?style=flat)
+
+#### Automation Capabilities
+
+- Process Discovery
+- Workflow Automation
+- Excel Automation
+- Web Automation
+- Desktop Automation
+- ERP Data Processing
+- Invoice Processing Automation
+- Reporting Automation
+- Data Entry Automation
+- AI + RPA Integration
+
+---
+
+## 💼 Professional Experience
+
+### Purchasing Officer & Data Reporting Specialist
+
+- ERP Administration
+- Inventory Analysis
+- Purchasing Analytics
+- Profitability Reporting
+- Demand Forecast Support
+
+### Financial Data Analyst
+
+- Financial Analysis
+- Cost Control Reporting
+- Profitability Analysis
+- Business Performance Tracking
+
+### Real Estate Sales Consultant
+
+- Client Analysis
+- Market Research
+- Sales Performance Tracking
+- CRM Operations
+
+---
+
+## 🔥 Services I Can Deliver
+
+### Data Analytics
+
+✔ Data Cleaning
+
+✔ Exploratory Data Analysis
+
+✔ KPI Dashboards
+
+✔ Power BI Reporting
+
+✔ SQL Analytics
+
+✔ Excel Reporting Solutions
+
+---
+
+### AI Automation
+
+✔ AI-Powered Reporting
+
+✔ AI Workflow Design
+
+✔ LLM-Based Business Solutions
+
+✔ ChatGPT Workflow Integration
+
+✔ AI + RPA Solutions
+
+---
+
+### Process Automation
+
+✔ Power Automate Solutions
+
+✔ Desktop Automation
+
+✔ ERP Automation
+
+✔ Excel Automation
+
+✔ Business Workflow Automation
+
+---
+
+## 🎓 Academic Foundation
+
+### Academic Diploma in Data Science
+
+Faculty of Graduate Studies for Statistical Research
+Cairo University
+
+Key Areas:
+
+- Statistics
+- Linear Algebra
+- Machine Learning
+- Database Systems
+- Data Analytics
+- Business Intelligence
 
 ---
 
 ## 📂 Featured Projects
 
-### 🧠 [Predictive Analytics for Smart Energy Markets](https://github.com/Engy1107)
-* **Description:** Developed a Machine Learning system to forecast electricity prices based on historical dataset features[cite: 1].
-* **Stack:** `Python`, `XGBoost`, `Pandas`, `Optuna`[cite: 1].
-* **Impact:** Handled advanced feature engineering and hyperparameter optimization to achieve a predictive accuracy of 92.6%[cite: 1].
+### 📈 Stock Market Analytics
 
-### 📊 [Big Data Impact on Operational Performance](https://github.com/Engy1107) (Graduation Project)
-* **Description:** Analytical modeling and research assessing how integrating big data analytics enhances business organization efficiency and financial reporting[cite: 2].
-* **Grade:** Excellent[cite: 2].
-* **Stack:** `Business Statistics`, `Financial Analysis`, `Data Modeling`[cite: 2].
+Financial data analysis using Python and statistical techniques.
 
-### 📈 [Procurement & Inventory Analytics System](https://github.com/Engy1107)
-* **Description:** Built analytical models to evaluate supplier performance, product demand trends, and profitability tracking[cite: 1, 2].
-* **Stack:** `Advanced Excel (PivotTables)`, `Fujitsu ERP Data Analysis`[cite: 1].
+### 📊 Business Intelligence Dashboard
 
----
+Interactive KPI monitoring and reporting dashboards.
 
-## 🌱 Currently Advancing In
+### 🤖 AI Reporting Assistant
 
-* **Advanced Machine Learning & Predictive Modeling**[cite: 2]
-* **Data Engineering Pipelines (SQL Modeling & Optimization)**[cite: 1]
-* **Enterprise Automation (n8n, Power Automate Desktop, Notion CRM)**[cite: 1]
-* **Generative AI Applications for Business Workflows**[cite: 1]
+Automated reporting solution using Generative AI and workflow automation.
+
+### ⚡ ERP Automation Workflow
+
+Automated business processes and data handling across enterprise systems.
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 Certifications
+
+🏅 CFA Investment Foundations
+
+🏅 Accounting Fundamentals – CFI
+
+🏅 Statistics Foundations
+
+🏅 Database Fundamentals
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Engy1107&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Engy1107&theme=tokyonight" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engy1107&layout=compact&theme=tokyonight" width="60%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/engy-wahpa-b21101156](https://www.linkedin.com/in/engy-wahpa-b21101156/)[cite: 1, 2]
-* 🐙 **GitHub:** [github.com/Engy1107](https://github.com/Engy1107)
-* 📧 **Email:** [engyahmed117@outlook.com](mailto:engyahmed117@outlook.com)[cite: 1, 2]
+📧 engyahmed117@outlook.com
+
+💼 LinkedIn: linkedin.com/in/engy-wahpa-b21101156
+
+🌍 Giza, Egypt
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Personal Mission
 
-I get genuine satisfaction from replacing 5 hours of tedious, manual business reporting with a beautifully optimized 2-second data script or automation workflow! 🚀
+Leveraging Data, AI, and Automation to help businesses make smarter decisions, optimize operations, and unlock measurable value.
