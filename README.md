@@ -131,8 +131,8 @@ Turning Data into Insights 📊 and Automating Workflows ⚡
 
 ## 📫 Connect With Me
 
-* LinkedIn: [Engy Wahpa](https://www.linkedin.com/in/engy-wahpa-b21101156/)
-* GitHub: [Engy Wahpa](https://github.com/Engy1107)
+* LinkedIn: [Engy Wahpa Linkedin Profile](https://www.linkedin.com/in/engy-wahpa-b21101156/)
+* GitHub: [Engy Wahpa Github Grofile](https://github.com/Engy1107)
 * Email: engywahpa@gmail.com
 
 ---
