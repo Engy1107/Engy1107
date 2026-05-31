@@ -1,4 +1,4 @@
-# Hi 👋, I'm Engy Ahmed
+# Hi 👋, I'm Engy  Wahpa
 
 <h3 align="center">Data Analyst | Data Science Student | RPA & AI Automation Enthusiast</h3>
 
@@ -64,8 +64,6 @@ Turning Data into Insights 📊 and Automating Workflows ⚡
 
 ✅ Exploratory Data Analysis (EDA)
 
-✅ SQL Database Analysis
-
 ✅ Business Reporting & KPI Tracking
 
 ✅ Dashboard Development with Power BI
@@ -77,8 +75,6 @@ Turning Data into Insights 📊 and Automating Workflows ⚡
 ✅ Excel Automation
 
 ✅ Process Automation using Power Automate
-
-✅ AI-Powered Workflow Automation
 
 ---
 
