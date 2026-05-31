@@ -1,4 +1,4 @@
-# Hi 👋, I'm Engy Ahmed
+# Hi 👋, I'm Engy Wahpa
 
 <h3 align="center">Data Analyst | Data Science Student | RPA & AI Automation Enthusiast</h3>
 
@@ -137,9 +137,9 @@ Turning Data into Insights 📊 and Automating Workflows ⚡
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/YOUR_LINK
-* GitHub: https://github.com/YOUR_USERNAME
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* LinkedIn: [https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/engy-wahpa-b21101156/)
+* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/Engy1107)
+* Email:  engwahpa@gmail.com
 
 ---
 
